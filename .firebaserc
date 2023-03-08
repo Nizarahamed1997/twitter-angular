@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "twitter-clone-anglular": {
+      "hosting": {
+        "twitter-angular-clone": [
+          "twitter-clone-anglular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "twitter-clone-anglular"
+  }
+}
